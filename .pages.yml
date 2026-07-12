@@ -1,0 +1,15 @@
+media:
+  input: "assets"
+  output: "assets"
+collections:
+  - name: "pages"
+    label: "Pages"
+    type: "files"
+    files:
+      - name: "home"
+        label: "Home Page"
+        path: "index.html"
+        fields:
+          - name: "title"
+            label: "Main Website Title"
+            type: "string"
