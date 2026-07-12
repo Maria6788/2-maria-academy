@@ -1,15 +1,12 @@
 media:
   input: "/"
   output: "/"
-collections:
+content:
   - name: "pages"
     label: "Pages"
-    type: "files"
-    files:
-      - name: "home"
-        label: "Home Page"
-        path: "index.html"
-        fields:
-          - name: "title"
-            label: "Main Website Title"
-            type: "string"
+    type: "file"
+    path: "index.html"
+    fields:
+      - name: "title"
+        label: "Main Website Title"
+        type: "string"
