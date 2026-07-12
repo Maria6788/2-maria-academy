@@ -1,6 +1,6 @@
 media:
-  input: "assets"
-  output: "assets"
+  input: "/"
+  output: "/"
 collections:
   - name: "pages"
     label: "Pages"
