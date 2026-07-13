@@ -1,0 +1,92 @@
+# Query: pine
+
+59 results - 15 files
+
+src\components\Footer.tsx:
+   54:                   MARIA
+  108:                   About MARIA Academy
+  221:                 <span>404 MARIA Blvd, Suite 100, Academic Hills, NY 10023</span>
+  229:                 <span>info@maria.edu</span>
+  271:           &copy; {new Date().getFullYear()} Maria Academy of Excellence. All Rights Reserved.
+
+src\components\Header.tsx:
+   82:               href="mailto:admissions@maria.edu"
+   87:               <span>admissions@maria.edu</span>
+  150:                 Maria
+
+src\data\schoolData.ts:
+   21:     subtitle: 'Welcome to Maria Academy',
+   22:     description: 'At Maria, we empower students to achieve academic greatness, build lifelong leadership skills, and foster a compassionate global outlook.'
+   72:     content: 'Sending our daughter to Maria Academy was the best decision we ever made. The teachers do not just teach—they mentor. Her self-confidence and grades have improved immensely.',
+   79:     content: 'The rigorous AP curriculum and the science research club at Maria laid the perfect foundation for my higher studies. I learned time-management, leadership, and analytical thinking.',
+  104:     title: 'Maria Inter-School Track & Field Championship',
+  108:     description: 'An exciting day of competitive athletic events featuring 12 regional academies. Come cheer on our Maria Panthers as they defend the golden trophy!',
+  195:     content: 'Maria Academy is inviting applications for merit-cum-means scholarships for the upcoming calendar academic year. Detailed forms, checklist folders, and income eligibility slabs can be downloaded here.',
+  218:     email: 'a.stewart@maria.edu',
+  228:     email: 'c.bell@maria.edu',
+  238:     email: 'd.yang@maria.edu',
+  248:     email: 's.martinez@maria.edu',
+  258:     email: 'm.brooks@maria.edu',
+  268:     email: 'l.taylor@maria.edu',
+  382:   email: 'e.hunt26@maria.edu'
+
+src\pages\About.tsx:
+   51:     { year: '1998', title: 'Founding Stone', desc: 'Dr. Stewart laid the foundation of Pinecrest Academy with 45 primary scholars and a single brick study house.' },
+  121:               Chronicle of Maria Academy
+  124:               A historical look at the monumental events that shaped Pinecrest Academy into a trusted academic pillar.
+  191:               The experienced educational visionaries and board directors charting Pinecrest Academy’s growth strategy.
+
+src\pages\Academics.tsx:
+  121:                 Maria Academy operates on a dual-track cognitive model that respects foundational competencies while pushing boundaries of creative and experimental application. We design courses that challenge students to synthesize mathematical models, analyze global historical narratives, and build physical prototypes in computer sciences.
+
+src\pages\Admissions.tsx:
+  129:             JOIN PINECREST ACADEMY
+  230:               Pinecrest maintains an honest, itemized annual tuition standard with no hidden development levies.
+
+src\pages\Classes.tsx:
+  125:             Every Pinecrest study room is outfitted with secondary ventilation filtration systems, digital automated attendance registers, dual exit lines, and ergonomic desks adjusting to child height. Our playgrounds support child-safe soft turf systems to avoid trip abrasions.
+
+src\pages\Contact.tsx:
+  105:                       <span>404 Pinecrest Blvd, Suite 100, Academic Hills, NY 10023</span>
+  122:                       <a href="mailto:admissions@pinecrest.edu" className="block text-blue-600 hover:underline">
+  123:                         admissions@pinecrest.edu
+  125:                       <a href="mailto:info@pinecrest.edu" className="block text-blue-600 hover:underline">
+  126:                         info@pinecrest.edu
+  154:                   <span className="block font-bold text-sm text-slate-200">Pinecrest Archway Central</span>
+  174:                     Thank you for reaching out to Pinecrest Academy. Our support advisors have received your transcript, and we will reply to your registered email address within 12 working hours.
+
+src\pages\EventsNews.tsx:
+   10:       title: 'Pinecrest Panthers Debate Team Secures District Gold',
+   25:       summary: 'Pinecrest Alumna Sarah Jenkins (Class of 2019) was inducted into the active JPL aerospace engineering research team, pursuing deep-space computational trajectory mapping.',
+  201:                   <span className="text-slate-500">Mail: relations@pinecrest.edu</span>
+
+src\pages\Faculty.tsx:
+  106:                       <span className="text-white text-xs font-semibold">Pinecrest Educator Since 2018</span>
+
+src\pages\Gallery.tsx:
+  141:                 Pinecrest Gallery &middot; {activeItem.category}
+
+src\pages\Home.tsx:
+  197:                 WELCOME TO PINECREST
+  203:                 Founded with a vision to deliver world-class preparatory education, Pinecrest Academy has been a cornerstone of academic brilliance, nurturing character, and global citizenship. Our comprehensive co-educational structure fosters active student agency, helping them explore unique disciplines through critical engagement.
+  231:                   alt="Pinecrest Main Building"
+  291:                 Welcome to Pinecrest Academy. In a world undergoing rapid technological evolution, a core foundation of critical analysis, scientific logic, and unwavering ethical empathy is critical.
+  565:                 A Visual Tour of Pinecrest Life
+  665:             Ready to Embark on Your Journey at Pinecrest Academy?
+
+src\pages\Login.tsx:
+   12:   const [email, setEmail] = useState('student@pinecrest.edu');
+   55:               PINECREST PORTAL
+   68:             <span className="block">Email: <strong className="font-semibold font-mono">student@pinecrest.edu</strong></span>
+   93:                 placeholder="student@pinecrest.edu"
+  164:           <a href="mailto:portal-support@pinecrest.edu" className="text-blue-500 hover:underline">
+  165:             portal-support@pinecrest.edu
+
+src\pages\NoticeBoard.tsx:
+  135:                         Admin Sign off: Dean of Student Affairs &bull; Pinecrest Office
+
+src\pages\StudentLife.tsx:
+   14:     { title: 'Pinecrest Chamber Symphony', desc: 'A 60-student symphonic orchestra performing classical Beethoven and modern theatrical scores.' },
+   30:       text: 'Liam designed an automated agricultural irrigation moisture monitor inside Pinecrest STEAM labs. His research paper won the national scholarship, covering his full engineering BS degrees at MIT.',
+   37:       text: 'Sophia served as the President of Pinecrest Debating Society and Model UN. She led our delegation to win the Ivy League Debate Shield and was subsequently admitted into Yale.',
+  150:                 alt="Pinecrest Courtyard"
