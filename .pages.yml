@@ -6,7 +6,4 @@ content:
     label: "Pages"
     type: "file"
     path: "index.html"
-    fields:
-      - name: "title"
-        label: "Main Website Title"
-        type: "string"
+    format: "html"
