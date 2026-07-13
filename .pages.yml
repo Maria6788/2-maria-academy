@@ -2,7 +2,7 @@ media:
   input: "/"
   output: "/"
 content:
-  - name: "pages"
-    label: "Pages"
+  - name: "school-data"
+    label: "School Data"
     type: "file"
-    path: "index.html"
+    path: "src/data/schoolData.ts"
