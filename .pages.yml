@@ -1,8 +1,8 @@
 media:
-  input: "/"
-  output: "/"
+  input: "src/assets"
+  output: "src/assets"
 content:
   - name: "school-data"
     label: "School Data"
     type: "file"
-    path: "src/App.tsx"
+    path: "src/data/schoolData.ts"
