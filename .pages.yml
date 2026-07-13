@@ -5,4 +5,4 @@ content:
   - name: "school-data"
     label: "School Data"
     type: "file"
-    path: "src/data/schoolData.ts"
+    path: "src/App.tsx"
