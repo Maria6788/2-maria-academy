@@ -6,4 +6,3 @@ content:
     label: "Pages"
     type: "file"
     path: "index.html"
-    format: "html"
